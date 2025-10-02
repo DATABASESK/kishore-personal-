@@ -1,0 +1,1 @@
+🚀 Automation Test Success! This LinkedIn post confirms my Google Cloud Function successfully connected to GitHub, fetched this caption, and triggered the LinkedIn API.
