@@ -1,11 +1,1 @@
-Visual proof the bot works! 🤖
-
-This image and caption were posted completely hands-free via our Google Cloud automation. Testing the integration from GitHub -> Google Cloud -> Instagram API. Every step passed! ✅
-
-Automation isn't just about testing software—it's about automating your content pipeline too!
-
-Now go automate something cool! 👇
-
-Innovation driven by @growwithkishore and kishorekumar5520. Follow the journey of KISHORE S.
-
-#automation #googlecloud #devops #cicd #softwaretesting #qatips #growwithkishore #tech
+test
