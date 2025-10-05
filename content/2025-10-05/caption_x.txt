@@ -1,1 +1,9 @@
-testing test 
+Visual proof the bot works! 🤖 This post was sent completely hands-free via our Google Cloud automation.
+
+Tested: GitHub -> Google Cloud -> Instagram API. Passed! ✅
+
+Now go automate something cool! 👇
+
+@growwithkishore | kishorekumar5520 | KISHORE S
+
+#automation #googlecloud #devops #tech #ci #growwithkishore
