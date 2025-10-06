@@ -1,6 +1,1 @@
-Visual proof the bot works! 🤖 This image and caption were posted completely hands-free via my Google Cloud automation. 
-
-Testing the integration from GitHub -> Google Cloud -> Instagram API. Every step passed! ✅
-
-Now go automate something cool! 👇
-
+testing automation
